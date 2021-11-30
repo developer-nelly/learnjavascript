@@ -1,0 +1,13 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: hsl(0, 0%, 100%);
+
+}
+
+ul {}
+ul li {}
+ul li a {
+    color: blue;
+}
